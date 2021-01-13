@@ -14,8 +14,8 @@
 <p align="center" >
     <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="70" height="70"/>
     <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c++" width="70" height="70"/>&nbsp; 
-    <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" alt="html5" width="70" height="70"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/css3-8-1175200.png" alt="css3" width="70" height="70"/> 
+<!--     <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" alt="html5" width="70" height="70"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/css3-8-1175200.png" alt="css3" width="70" height="70"/>  -->
     <img src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" width="70" height="70">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="70" height="70">
 </p> 
