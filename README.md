@@ -26,6 +26,7 @@
 <p align="center" >
     <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="60" height="60"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="60" height="60"/> 
+    <img src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" alt="github" width="60" height="60"/>
 </p> 
 
 ### Connect with me:
