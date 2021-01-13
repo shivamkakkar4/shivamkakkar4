@@ -9,12 +9,17 @@
 - ⚡ Fun fact: I love Tennis
 
 
-### Languages and Frameworks:
+### Languages:
 
 <p align="center" >
     <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" alt="html5" width="70" height="70"/>
     <img src="https://cdn.iconscout.com/icon/free/png-512/css3-8-1175200.png" alt="css3" width="70" height="70"/> 
     <img src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" width="70" height="70">
+</p> 
+
+### Frameworks:
+
+<p align="center" >
     <img src="https://cdn1.iconfinder.com/data/icons/soleicons-solid-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" alt="react" width="70" height="70"/>
     <img src="https://img.icons8.com/color/452/nodejs.png" height="70"width="70">
     <img src="https://kalvanaveen.github.io/WebDevelopmentResources.github.io/Images/Express-JS-min.png" width="70" height="70">
