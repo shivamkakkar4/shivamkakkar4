@@ -20,12 +20,14 @@
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="70" height="70">
 </p> 
 
-### Frameworks:
+### Frameworks and Databases:
 
 <p align="center" >
     <img src="https://cdn1.iconfinder.com/data/icons/soleicons-solid-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" alt="react" width="70" height="70"/>
     <img src="https://img.icons8.com/color/452/nodejs.png" height="70"width="70">
     <img src="https://kalvanaveen.github.io/WebDevelopmentResources.github.io/Images/Express-JS-min.png" width="70" height="70">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" height="70"width="70">
+    <img src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" width="70" height="70">
 </p> 
 
 ### Tools:
